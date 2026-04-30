@@ -51,22 +51,20 @@ The user confirmed that they were able to log into their account after the accou
 ## Screenshots
 
 ### 01 - Ticket Created
-![Ticket Created](screenshots/01-ticket-created.png)
+![Ticket Created](01-ticket-created.png)
 
 ### 02 - Ticket State
-![Ticket State](screenshots/02-ticket-state.png)
+![Ticket State](02-ticket-state.png)
 
 ### 03 - Incident Details
-![Incident Details](screenshots/03-incident-details.png)
+![Incident Details](03-incident-details.png)
 
 ### 04 - Work Notes
-![Work Notes](screenshots/04-work-notes.png)
+![Work Notes](03-incident-details-(cont.).png)
 
 ### 05 - Resolution Notes
-![Resolution Notes](screenshots/05-resolution-notes.png)
+![Resolution Notes](04-resolution-notes.png)
 
 ### 06 - Incident Resolved
-![Incident Resolved](screenshots/06-incident-resolved.png)
-
-## Summary
+![Incident Resolved](05-incident-resolved.png)
 This project shows hands-on experience using ServiceNow to manage a realistic password reset incident from creation through resolution. This workflow aligns with entry-level IT support, help desk, IAM, and GRC-adjacent roles.
