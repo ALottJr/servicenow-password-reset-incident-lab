@@ -60,7 +60,7 @@ The user confirmed that they were able to log into their account after the accou
 ![Incident Details](03-incident-details.png)
 
 ### 04 - Work Notes
-![Work Notes](03-incident-details-(cont.).png)
+![Work Notes](04-work-notes.png)
 
 ### 05 - Resolution Notes
 ![Resolution Notes](04-resolution-notes.png)
